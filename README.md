@@ -7,3 +7,9 @@ Dependencies -
 * Install C Make Tools.
 * Install face recognition python package (Library/face_recognition) in same directory where  images and other files are stored.
 * Give the  dataset (photo) in image folder run the  code.
+
+
+Application-
+surveillance camera
+monitoring people
+attendace recording 
